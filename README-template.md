@@ -28,8 +28,8 @@ View a responsive card that adapts to different screen sizes.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/iyanuoluwadiamond/blog-preview-card]
+- Live Site URL: [ https://iyanuoluwadiamond.github.io/blog-preview-card/]
 
 ## My process
 
